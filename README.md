@@ -52,25 +52,22 @@ Tahminatör, çok yoğun olan ve sürekli değişen ülke gündemi, futbol, uzay
 - **Daily Scrum**: Daily Scrum toplantıları Zoom ve Discord üzerinden yapılmıştır. Daily Scrum toplantı linkleri jpeg olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://raw.githubusercontent.com/OyunveUygulamaAkademisi/Bootcamp2022Example/main/ProjectManagement/Sprint1Documents/backlog1.png) 
+![Backlog 1]() 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product1.png)
-  ![Screenshot 2](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product2.png)
-  ![Screenshot 3](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/product4.gif)
+  ![Screenshot 1]()
+  ![Screenshot 2]()
+  ![Screenshot 3]()
 - **Sprint Review**: 
-Alınan kararlar: Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış, arduino kurulumu ve firebase'e bağlanması sağlanmış, uygulama için veritabanı olarak firebase servisleri aktif edilmiş ve eksiklikler değerlendirilmiştir. Sprint Review katılımcıları: Mustafa Aksoy
+Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış
 
 - **Sprint Retrospective:**
-  - Roller ile ilgili düzenleme yapılmış, scrum master değişmiştir.
-  - Takım içindeki görev dağılımıyla ilgili düzenleme yapılması kararı alınmıştır.
   - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
  
-
 
 ---
 
 ## Product Backlog URL
 
-[Flutter Team 52 Miro Backlog Board](https://miro.com/app/board/uXjVO4kRs2w=/)
+[Flutter Team 16 Miro Backlog Board](https://miro.com/app/board/uXjVM9yYxIw=/)
