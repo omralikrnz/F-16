@@ -57,9 +57,6 @@ Tahminatör, çok yoğun olan ve sürekli değişen ülke gündemi, futbol, uzay
   ![Backlog 1](https://github.com/omralikrnz/F-16/blob/8b38b267aab7c0aa857b44f3bca856616b12e9e2/backlog1.png)
 
 
-
-
-
 - **Ürün Durumu**: Ekran görüntüleri:
   ![Screenshot 1](https://github.com/omralikrnz/F-16/blob/8b38b267aab7c0aa857b44f3bca856616b12e9e2/Product1.jpeg)
 
