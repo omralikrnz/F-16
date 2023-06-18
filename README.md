@@ -43,13 +43,13 @@ Tahminatör, çok yoğun olan ve sürekli değişen ülke gündemi, futbol, uzay
 
 # Sprint 1
 
-- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+- **Sprint içinde tamamlanması tahmin edilen puan**: 70 Puan
 
 
-- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 300 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 100 ile başlaması gerektiğine karar verildi.
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 270 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 70 ile başlaması gerektiğine karar verildi.
 
 
-- **Daily Scrum**: Daily Scrum toplantıları Zoom ve Discord üzerinden yapılmıştır. Daily Scrum toplantı linkleri jpeg olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/OyunveUygulamaAkademisi/Bootcamp2022Example/blob/main/ProjectManagement/Sprint1Documents/DailyScrumMeetingNotesSprint1.docx?raw=true)
+- **Daily Scrum**: Daily Scrum toplantıları Zoom ve Discord üzerinden yapılmıştır. Daily Scrum toplantı linkleri jpeg olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](Dailyscrum 1.jpeg)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1]() 
