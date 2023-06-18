@@ -22,7 +22,7 @@ Takım Flutter 16
 
 ## Ürün Açıklaması
 
-Tahminatör, çok yoğun olan ve sürekli değişen ülke gündemi, futbol, uzay, ekonomi ve hayattaki diğer her şey hakkında bir olayın gerçekleşme / gerçekleşmeme ihtimali arasında tahmin uygulamasıdır. Örneğin, dolar 30 lira olur mu? Kılıçdaroğlu istifa eder mi? Fenerbahçe 2024'te şampiyon olur mu? Kullanıcıların oluşturduğu bu sorulara, evet ya da hayır ile tahminde bulunabilir ve eğer bilirsen uygulamadaki paranı katlayarak büyük ödülleri kazanablirsin.
+Tahminatör, çok yoğun olan ve sürekli değişen ülke gündemi, futbol, uzay, ekonomi ve hayattaki diğer her şey hakkında bir olayın gerçekleşme / gerçekleşmeme ihtimali arasında tahmin uygulamasıdır. Örneğin, dolar 30 lira olur mu? Kılıçdaroğlu istifa eder mi? Fenerbahçe 2024'te şampiyon olur mu? Kullanıcıların oluşturduğu bu sorulara, evet ya da hayır ile tahminde bulunabilir ve eğer bilirsen uygulamadaki paranı katlayarak büyük ödülleri kazanabilirsin.
 
 
 
