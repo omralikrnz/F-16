@@ -49,21 +49,22 @@ Tahminatör, çok yoğun olan ve sürekli değişen ülke gündemi, futbol, uzay
 - **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 270 puanlık backlog bulunmaktadır. 3 sprint'e bölündüğünde ilk sprint'in en azından 70 ile başlaması gerektiğine karar verildi.
 
 
-- **Daily Scrum**: Daily Scrum toplantıları Zoom ve Discord üzerinden yapılmıştır. Daily Scrum toplantı linkleri jpeg olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](Dailyscrum 1.jpeg)
+- **Daily Scrum**: Daily Scrum toplantıları Zoom ve Discord üzerinden yapılmıştır. Daily Scrum toplantı linkleri jpeg olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats](https://github.com/omralikrnz/F-16/blob/8b38b267aab7c0aa857b44f3bca856616b12e9e2/Dailyscrum%201.jpeg) (https://github.com/omralikrnz/F-16/blob/8b38b267aab7c0aa857b44f3bca856616b12e9e2/Dailyscrum%202.jpeg)
 
 - **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1]() 
+![Backlog 1](https://github.com/omralikrnz/F-16/blob/8b38b267aab7c0aa857b44f3bca856616b12e9e2/backlog1.png) 
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
-  ![Screenshot 1]()
-  ![Screenshot 2]()
-  ![Screenshot 3]()
+  ![Screenshot 1](https://github.com/omralikrnz/F-16/blob/8b38b267aab7c0aa857b44f3bca856616b12e9e2/Product1.jpeg)
+  ![Screenshot 2](https://github.com/omralikrnz/F-16/blob/8b38b267aab7c0aa857b44f3bca856616b12e9e2/Product2.jpeg)
+  ![Screenshot 3](https://github.com/omralikrnz/F-16/blob/8b38b267aab7c0aa857b44f3bca856616b12e9e2/Product3.jpeg)
 - **Sprint Review**: 
-Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış
+Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış. Genel yol haritası çıkarılmış, herkese görevler dağıtılmıştır.
 
 - **Sprint Retrospective:**
   - Takım üyelerinin gelecek sprintlerde aktif olması gerektiğine vurgu yapılmıştır.
+  - Eksik görülen yerlerin gerekirse yeniden yapılması kararlaştırılmıştır.
  
 
 ---
