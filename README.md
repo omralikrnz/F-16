@@ -31,15 +31,13 @@ Tahminatör, çok yoğun olan ve sürekli değişen ülke gündemi, futbol, uzay
 
 ## Ürün Özellikleri
 
-- Kullanıcıların, dikkat çekici ve üzerine tahmin yürütülebilecek bir olayı paylaşırlar. (Örneğin, yıl sonuna kadar dolar 30 lira olur mu?
+- Kullanıcılar, dikkat çekici ve üzerine tahmin yürütülebilecek bir olayı paylaşırlar. (Örneğin, yıl sonuna kadar dolar 30 lira olur mu?
 - Diğer kullanıcılar, oluşturulan bu olaylar ile ilgili evet ya da hayır olarak tahmin yürütür. (Örneğin Evet:1.45 Hayır:2.75 oran)
 - Doğru tahminde bulunan kullanıcılar, belirtilen oran kadar paralarını katlarlar ve büyük ödüle yaklaşırlar.
 
 ## Hedef Kitle
 
 - 15-35 yaş arası
-
-
 
 ---
 
