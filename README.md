@@ -53,8 +53,10 @@ Tahminatör, çok yoğun olan ve sürekli değişen ülke gündemi, futbol, uzay
 (https://github.com/omralikrnz/F-16/blob/8b38b267aab7c0aa857b44f3bca856616b12e9e2/Dailyscrum%201.jpeg)
 (https://github.com/omralikrnz/F-16/blob/8b38b267aab7c0aa857b44f3bca856616b12e9e2/Dailyscrum%202.jpeg)
 
-- **Sprint board update**: Sprint board screenshotları: 
-![Backlog 1](https://github.com/omralikrnz/F-16/blob/8b38b267aab7c0aa857b44f3bca856616b12e9e2/backlog1.png)
+- **Sprint board update**: Sprint board: 
+  ![Backlog 1](https://github.com/omralikrnz/F-16/blob/8b38b267aab7c0aa857b44f3bca856616b12e9e2/backlog1.png)
+
+
 
 
 
@@ -66,6 +68,8 @@ Tahminatör, çok yoğun olan ve sürekli değişen ülke gündemi, futbol, uzay
 
   
   ![Screenshot 3](https://github.com/omralikrnz/F-16/blob/8b38b267aab7c0aa857b44f3bca856616b12e9e2/Product3.jpeg)
+
+  
 - **Sprint Review**: 
 Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış. Genel yol haritası çıkarılmış, herkese görevler dağıtılmıştır.
 
