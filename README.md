@@ -50,8 +50,8 @@ Tahminatör, çok yoğun olan ve sürekli değişen ülke gündemi, futbol, uzay
 
 
 - **Daily Scrum**: Daily Scrum toplantıları Zoom ve Discord üzerinden yapılmıştır. Daily Scrum toplantı linkleri jpeg olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 1 Daily Scrum Chats]
-!(https://github.com/omralikrnz/F-16/blob/8b38b267aab7c0aa857b44f3bca856616b12e9e2/Dailyscrum%201.jpeg)
-!(https://github.com/omralikrnz/F-16/blob/8b38b267aab7c0aa857b44f3bca856616b12e9e2/Dailyscrum%202.jpeg)
+(https://github.com/omralikrnz/F-16/blob/8b38b267aab7c0aa857b44f3bca856616b12e9e2/Dailyscrum%201.jpeg)
+(https://github.com/omralikrnz/F-16/blob/8b38b267aab7c0aa857b44f3bca856616b12e9e2/Dailyscrum%202.jpeg)
 
 - **Sprint board update**: Sprint board screenshotları: 
 ![Backlog 1](https://github.com/omralikrnz/F-16/blob/8b38b267aab7c0aa857b44f3bca856616b12e9e2/backlog1.png)
