@@ -43,6 +43,22 @@ Tahminatör, çok yoğun olan ve sürekli değişen ülke gündemi, futbol, uzay
 
 # Sprint 1
 
+- **Sprint Notları**:
+
+Tema 1:
+Gündemi takip etmek için sıkça sosyal medyayı kullanıyorum. Yeni haberleri ve insanların bu konudaki düşüncelerini içerikler arasında kaybolmadan bulabilmek istiyorum. Ama bunu yaparken vaktimi boşa harcamış gibi hissetmek istemiyorum, bir yararı da olmalı. 
+Tema 2: 
+Vaktimin çoğu internette geçiyor. Sosyal medyada vakit geçirirken kazanç sağlayabileceğim bir uygulama bulmak istiyorum. 
+Tema 3: 
+Öğrenciyim, gündem hakkındaki tahminlerimin ödüle dönüşeceği bir uygulama kullanmayı istiyorum.
+
+Kullanıcı uygulamadan gündemi tahmin edebilmelidir. 
+Kullanıcı tahminleri üzerinden oylama yapabilmelidir.
+Kullanıcı diğer üyelerin tahminlerini görerek etkileşime geçebilir.
+Kullanıcı doğru bildiği tahminler üzerinden puan kazanır. 
+Kullanıcı ödül sisteminde puan kazanıp ödül alabilir.
+
+
 - **Sprint içinde tamamlanması tahmin edilen puan**: 70 Puan
 
 
