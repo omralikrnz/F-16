@@ -113,11 +113,11 @@ Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış. Genel yol h
 
 
 - **Daily Scrum**: Daily Scrum toplantıları Zoom ve Discord üzerinden devam edilmiştir. Daily Scrum toplantı linkleri jpeg olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats]
-(https://github.com/omralikrnz/F-16/blob/8b38b267aab7c0aa857b44f3bca856616b12e9e2/Dailyscrum%201.jpeg)
+(https://github.com/omralikrnz/F-16/blob/ebe77e20bdc1da6732b0395e2cb736ed59dc6a0f/Daily.png)
 
 
 - **Sprint board update**: Sprint board: 
-  ![Backlog 1](https://github.com/omralikrnz/F-16/blob/8b38b267aab7c0aa857b44f3bca856616b12e9e2/backlog1.png)
+  ![Backlog 2](https://github.com/omralikrnz/F-16/blob/ebe77e20bdc1da6732b0395e2cb736ed59dc6a0f/Sprint2.png)
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
