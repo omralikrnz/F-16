@@ -101,3 +101,36 @@ Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış. Genel yol h
 
 ---
 
+# Sprint 2
+
+- **Sprint Notları**:
+  - Backlog içine eklenmiştir.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 100 Puan
+
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 270 puanlık backlog bulunmaktadır. 2. Sprint için toplam hedef puanın yaklaşık 1/3'ü hedeflenmiştir.
+
+
+- **Daily Scrum**: Daily Scrum toplantıları Zoom ve Discord üzerinden devam edilmiştir. Daily Scrum toplantı linkleri jpeg olarak Readme'de tarafımızdan paylaşılmaktadır: [Sprint 2 Daily Scrum Chats]
+(https://github.com/omralikrnz/F-16/blob/8b38b267aab7c0aa857b44f3bca856616b12e9e2/Dailyscrum%201.jpeg)
+
+
+- **Sprint board update**: Sprint board: 
+  ![Backlog 1](https://github.com/omralikrnz/F-16/blob/8b38b267aab7c0aa857b44f3bca856616b12e9e2/backlog1.png)
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+
+
+  
+- **Sprint Review**: 
+  - Yapılması planlanan görevler tamamlanamamış olup takvimin gerisine düşülmüştür.
+  - Tatil nedeni ile takım içi iletişim tam anlamıyla sağlanamadı.
+  
+- **Sprint Retrospective:**
+  - Takım üyelerinin son sprintte kalan görevleri tamamlayabileceği öngörülememektedir.
+  - Takım olarak Beyza Göncüler ile görüşülüp başka bir çözüm bulunmasına karar verilmiştir.
+ 
+
+---
