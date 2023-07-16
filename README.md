@@ -139,6 +139,7 @@ Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış. Genel yol h
 
 - **Sprint Notları**:
   - Takım içi iletişimsizlik sebebi ile ekibi dağıtma kararı alındı. Emre Rüzgar ve Ömer Ali Kurnaz olarak başka bir uygulama yapmış bulunmaktayız.
+  - Ürün APK dosyası yüklendi. (https://github.com/omralikrnz/F-16/blob/ecedd5a52336d205bb33b6d078e6c40370b21fdd/Akademi.apk)
 
 - **Sprint içinde tamamlanması tahmin edilen puan**: 270 Puan
 
@@ -164,7 +165,7 @@ Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış. Genel yol h
   
 - **Sprint Review**: 
   - Yapılması planlanan uygulama yerine takım dağıldığı için başka uygulama yapılmıştır.
-  - Kısa sürede ortaya bir ürün konabildi.
+  - Az zamanda çok büyük işler yapıldı :)
   
 - **Sprint Retrospective:**
   - Sonradan dağılabileceği öngörülen bir takımla yola çıkılmaması gerektiği öğrenildi.
