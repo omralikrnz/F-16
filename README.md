@@ -133,5 +133,35 @@ Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış. Genel yol h
   - Takım üyelerinin son sprintte kalan görevleri tamamlayabileceği öngörülememektedir.
   - Takım olarak Beyza Göncüler ile görüşülüp başka bir çözüm bulunmasına karar verilmiştir.
  
-
 ---
+
+# Sprint 3
+
+- **Sprint Notları**:
+  - Takım içi iletişimsizlik sebebi ile ekibi dağıtma kararı alındı. Emre Rüzgar ve Ömer Ali Kurnaz olarak başka bir uygulama yapmış bulunmaktayız.
+
+- **Sprint içinde tamamlanması tahmin edilen puan**: 270 Puan
+
+
+- **Puan tamamlama mantığı**: Toplamda proje boyunca tamamlanması gereken 270 puanlık backlog bulunmaktadır. Yeni bir uygulama olduğu için bütün her şeyi bu uygulama için tekrar yaptık.
+
+
+- **Daily Scrum**: Daily Scrum toplantıları Wp üzerinden yapılmaya çalışıldı.
+
+
+
+- **Sprint board update**: Sprint board: 
+  ![Backlog 2](https://github.com/omralikrnz/F-16/blob/ebe77e20bdc1da6732b0395e2cb736ed59dc6a0f/Sprint2.png)
+
+
+- **Ürün Durumu**: Ekran görüntüleri:
+
+- ![Screenshot 1](https://github.com/omralikrnz/F-16/blob/94117834ccc2c1387f39c209357bca14beb4bee1/Product3.jpg)
+
+  
+- **Sprint Review**: 
+  - Yapılması planlanan uygulama yerine takım dağıldığı için başka uygulama yapılmıştır.
+  - Kısa sürede ortaya bir ürün konabildi.
+  
+- **Sprint Retrospective:**
+  - Sonradan dağılabileceği öngörülen bir takımla yola çıkılmaması gerektiği öğrenildi.
