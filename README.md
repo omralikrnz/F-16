@@ -148,6 +148,7 @@ Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış. Genel yol h
 
 
 - **Daily Scrum**: Daily Scrum toplantıları Wp üzerinden yapılmaya çalışıldı.
+- ![Sprint 3 Daily Scrum Chats](https://github.com/omralikrnz/F-16/blob/7a3673634c7cbb2b03be56ca8f2ab3699ac88bb9/DailyScrum3.png)
 
 
 
