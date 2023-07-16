@@ -7,14 +7,12 @@ Takım Flutter 16
 
 ## Takım Elemanları
 - Ömer Ali Kurnaz: Scrum Master
-- Ayşegül Derya Ayhan: Product Owner 
 - Emre Rüzgar: Developer
-- Muhammed Velat Nas: Developer
-- Ebru Çiçek: Aktif Olmayan Üye
+
 
 ## Ürün İsmi
 
---Tahminatör--
+--AkademiApp--
 
 ## Product Backlog URL
 
@@ -22,22 +20,24 @@ Takım Flutter 16
 
 ## Ürün Açıklaması
 
-Tahminatör, çok yoğun olan ve sürekli değişen ülke gündemi, futbol, uzay, ekonomi ve hayattaki diğer her şey hakkında bir olayın gerçekleşme / gerçekleşmeme ihtimali arasında tahmin uygulamasıdır. Örneğin, dolar 30 lira olur mu? Kılıçdaroğlu istifa eder mi? Fenerbahçe 2024'te şampiyon olur mu? Kullanıcıların oluşturduğu bu sorulara, evet ya da hayır ile tahminde bulunabilir ve eğer bilirsen uygulamadaki paranı katlayarak büyük ödülleri kazanabilirsin.
+AkademiApp ile Oyun ve Uygulama Akademisi eğitimin boyunca hiçbir şeyi kaçırmayacaksın. Duyurular ve görevlerini anlık takip edebilir, eğitimlerini kolayca tamamlayabilirsin. Akademi boyunca gerekli olacak her şeyi düşünüp, bu uygulamaya ekledik. Sadece AkademiApp'i indirmen yeterli!
 
 
 
-- **Uygulama birincil fonksiyonu**: Tahminatör app ile doğru tahmin ettiğin her olayın oranı kadar tahmin paranı katlayabilir ve bu paralar ile büyük ödüller kazanabilirsin, E tabii ki arkadaşların ile birlikte eğlenmene ek olarak. 
+- **Uygulama birincil fonksiyonu**: Oyun ve Uygulama Akademisi'ne katılmaya hak kazanan bir bursiyer bütün duyuruları, eğitimleri, görevleri kısaca her şeyi bu uygulama ile rahatça takip edebilecek.
 
 
 ## Ürün Özellikleri
 
-- Kullanıcılar, dikkat çekici ve üzerine tahmin yürütülebilecek bir olayı paylaşırlar. (Örneğin, yıl sonuna kadar dolar 30 lira olur mu?
-- Diğer kullanıcılar, oluşturulan bu olaylar ile ilgili evet ya da hayır olarak tahmin yürütür. (Örneğin Evet:1.45 Hayır:2.75 oran)
-- Doğru tahminde bulunan kullanıcılar, belirtilen oran kadar paralarını katlarlar ve büyük ödüle yaklaşırlar.
+- Kullanıcılar, Akademi tarafından yapılan duyuruları takip edip, görüntüleyebilir.
+- Bursiyerler, eğitim videolarını izleyip tamamlayabilir.
+- Akademi süresince genel durumunu görüntüleyebilir.
+- Haftalık, aylık görev takibi yapabilir.
+- Takvim özelliği ile ne kadar süreleri kaldığını öğrenebilir.
 
 ## Hedef Kitle
 
-- 15-35 yaş arası
+- Akademi Bursiyerleri
 
 ---
 
