@@ -151,12 +151,15 @@ Kullanıcı temel sayfaları oluşturulmuş, bazıları kodlanmış. Genel yol h
 
 
 - **Sprint board update**: Sprint board: 
-  ![Backlog 2](https://github.com/omralikrnz/F-16/blob/ebe77e20bdc1da6732b0395e2cb736ed59dc6a0f/Sprint2.png)
+  ![Backlog 3](https://github.com/omralikrnz/F-16/blob/a81614aaa9365357a299d078acffdd30d97653fe/Sprint%203.png)
 
 
 - **Ürün Durumu**: Ekran görüntüleri:
 
-- ![Screenshot 1](https://github.com/omralikrnz/F-16/blob/94117834ccc2c1387f39c209357bca14beb4bee1/Product3.jpg)
+- ![Screenshot 1](https://github.com/omralikrnz/F-16/blob/a81614aaa9365357a299d078acffdd30d97653fe/Akademi%201.jpeg)
+- ![Screenshot 2](https://github.com/omralikrnz/F-16/blob/a81614aaa9365357a299d078acffdd30d97653fe/Akademi%202.jpeg)
+- ![Screenshot 3](https://github.com/omralikrnz/F-16/blob/a81614aaa9365357a299d078acffdd30d97653fe/Akademi%203.jpeg)
+- ![Screenshot 4](https://github.com/omralikrnz/F-16/blob/a81614aaa9365357a299d078acffdd30d97653fe/Akademi%204.jpeg)
 
   
 - **Sprint Review**: 
